@@ -29,7 +29,10 @@ After running both frontEnd and backend, Open the link http://localhost:3000 on 
 
 ## Any assumptions / trade-offs
 
-The app is running on development mode. Both FrontEnd and Backend need to run consequently for the application to work. 
+- MariaDb is being replace with sqlite (since there is an issue while installing MariaDb server)
+- NextJs setup has been configured in your workstation
+- NestJs setup has been configured in your workstation
+- The app is running on development mode. Both FrontEnd and Backend need to run consequently for the application to work. 
 
 ## What you would improve with more time
 
